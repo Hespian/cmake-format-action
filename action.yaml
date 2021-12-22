@@ -1,5 +1,5 @@
 name: 'cmake-format lint action'
-author: 'Puneet Matharu'
+author: 'Puneet Matharu & Srykah'
 description: 'A Github Action to format CMake-specific files using cmake-format (v0.6.13)'
 branding:
   icon: 'code'
